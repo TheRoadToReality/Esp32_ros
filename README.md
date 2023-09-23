@@ -20,6 +20,7 @@ DTR RTS  EN  IO0
 2.bottomlayer
 
 ![image](https://github.com/TheRoadToReality/Esp32_ros/Esp32_fireware/asset/ESP32_3D_back.png#pic_center)
+
 3.布线
 
 ![image](https://github.com/TheRoadToReality/Esp32_ros/Esp32_fireware/asset/布线.png#pic_center)
