@@ -23,8 +23,8 @@ DTR RTS  EN  IO0
 
 3.布线
 
-![image](https://github.com/TheRoadToReality/Esp32_ros/blob/main/Esp32_Fireware/asset/asset/布线.png#pic_center)
+![image](https://github.com/TheRoadToReality/Esp32_ros/blob/main/Esp32_Fireware/asset/布线.png#pic_center)
 
 4.render
 
-![image](https://github.com/TheRoadToReality/Esp32_ros/blob/main/Esp32_Fireware/asset/asset/render.png#pic_center)
+![image](https://github.com/TheRoadToReality/Esp32_ros/blob/main/Esp32_Fireware/asset/render.png#pic_center)
