@@ -3,6 +3,7 @@
 ```bash
 主控:ESP32-WROOD-32E
 串口芯片：CH340C
+开发环境:Platformio
 ```
 自动下载电路对照表：
 ```bash
