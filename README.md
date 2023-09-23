@@ -13,3 +13,11 @@ DTR RTS  EN  IO0
  1   0    0   1
  1   1    1   1
 ```
+1.Toplayer
+![image](https://github.com/TheRoadToReality/Esp32_ros/Esp32_fireware/assets/ESP32_3D_TOP.png#pic_center)
+2.bottomlayer
+![image](https://github.com/TheRoadToReality/Esp32_ros/Esp32_fireware/assets/ESP32_3D_back.png#pic_center)
+3.布线
+![image](https://github.com/TheRoadToReality/Esp32_ros/Esp32_fireware/assets/布线.png#pic_center)
+4.render
+![image](https://github.com/TheRoadToReality/Esp32_ros/Esp32_fireware/assets/render.png#pic_center)
